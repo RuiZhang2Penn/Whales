@@ -1,0 +1,27 @@
+.App-header {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    background-color: #282c34;
+    color: white;
+    height: 50px;
+    width: 100%;
+}
+
+.App-logo {
+    pointer-events: none;
+    height: 50px;
+}
+
+.App-title {
+    flex: 1;
+    text-align: left;
+    font-weight: bold;
+    font-size: 17px;
+    color: #61dafb;
+}
+
+.logout {
+    font-size: 20px;
+    padding-right: 20px;
+}
